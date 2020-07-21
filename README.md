@@ -29,13 +29,12 @@ S. Caccamo, R. Parasuraman, F. Båberg and P. Ögren, "Extending a UGV teleopera
 # Experimental setup
 All data in the datasets is obtained from the same environment: a 20-meter x 26-meter indoor office hall with multiple rooms. The path taken by the robot, however, is different in the datasets. The robot begins at (0, 0) in all of the datasets and the Wi-Fi AP is located at (9, 0) in every dataset. The robot obtains RSSI measurements using multiple receivers (located at the upper left, upper right, lower left, and lower right corners of the robot and the center of the robot) with directional antennae. The distance from the lower antennae to the upper antennae is 1.2 m and the distance from the right antennae to the left antennae is 1 m.  
   
-Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.  
-  
-[dataset1 robot path](./robot_paths/dataset1.png)
-[dataset2 robot path](./robot_paths/dataset2.png)
-[dataset3 robot path](./robot_paths/dataset3.png)
-[dataset4 robot path](./robot_paths/dataset4.png)
-[dataset5 robot path](./robot_paths/dataset5.png)
-  
+Below are figures displaying the paths the robot takes in the environment in datasets 1-5, sequentially. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time. The red square indicates the starting position of the robot and the green star indicates the position of the Wi-Fi AP. All axis markers are in meters.  
+![dataset1 robot path](./robot_paths/dataset1.png)
+![dataset2 robot path](./robot_paths/dataset2.png)
+![dataset3 robot path](./robot_paths/dataset3.png)
+![dataset4 robot path](./robot_paths/dataset4.png)
+![dataset5 robot path](./robot_paths/dataset5.png)  
+
 # Related publication
 R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.
