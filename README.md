@@ -1,6 +1,3 @@
-# indoor-rssi-mobile-robot
-WiFi RSSI Dataset from Mobile Robots in Indoor Environments
-
 # Dataset structure
 | attribute #   | attribute name | attribute description                                     |
 | ------------- | -------------  | --------------------------------------------------------- |
@@ -32,7 +29,13 @@ S. Caccamo, R. Parasuraman, F. Båberg and P. Ögren, "Extending a UGV teleopera
 # Experimental setup
 All data in the datasets is obtained from the same environment: a 20-meter x 26-meter indoor office hall with multiple rooms. The path taken by the robot, however, is different in the datasets. The robot begins at (0, 0) in all of the datasets and the Wi-Fi AP is located at (9, 0) in every dataset. The robot obtains RSSI measurements using multiple receivers (located at the upper left, upper right, lower left, and lower right corners of the robot and the center of the robot) with directional antennae. The distance from the lower antennae to the upper antennae is 1.2 m and the distance from the right antennae to the left antennae is 1 m.  
   
-Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.
-
+Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.  
+  
+![dataset1 robot path]()
+![dataset2 robot path]()
+![dataset3 robot path]()
+![dataset4 robot path]()
+![dataset5 robot path]()
+  
 # Related publication
 R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.
