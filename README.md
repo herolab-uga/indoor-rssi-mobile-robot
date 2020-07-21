@@ -23,7 +23,7 @@
 | 19            | C_level_a      | RSSI value obtained from center antenna                   |
 | 20            | Feedback       | reserves for future use                                   |
 
-*filtered RSSI values are calculated from RSSI values as described in eqn. (8) of:  
+*filtered RSSI values are calculated from RSSI values as described in eq. (8) of:  
 S. Caccamo, R. Parasuraman, F. Båberg and P. Ögren, "Extending a UGV teleoperation FLC interface with wireless network connectivity information," 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, 2015, pp. 4305-4312, doi: 10.1109/IROS.2015.7353987.
 
 # Experimental setup
@@ -31,11 +31,11 @@ All data in the datasets is obtained from the same environment: a 20-meter x 26-
   
 Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.  
   
-![dataset1 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset1.png?raw=true)
-![dataset2 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset2.png?raw=true)
-![dataset3 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset3.png?raw=true)
-![dataset4 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset4.png?raw=true)
-![dataset5 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset5.png?raw=true)
+![dataset1 robot path](robotpaths/dataset1.png)
+![dataset2 robot path](robotpaths/dataset2.png)
+![dataset3 robot path](robotpaths/dataset3.png)
+![dataset4 robot path](robotpaths/dataset4.png)
+![dataset5 robot path](robotpaths/dataset5.png)
   
 # Related publication
 R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.
