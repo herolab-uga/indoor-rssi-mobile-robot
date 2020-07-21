@@ -31,11 +31,11 @@ All data in the datasets is obtained from the same environment: a 20-meter x 26-
   
 Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.  
   
-![dataset1 robot path](./robotpaths/dataset1.png)
-![dataset2 robot path](./robotpaths/dataset2.png)
-![dataset3 robot path](./robotpaths/dataset3.png)
-![dataset4 robot path](./robotpaths/dataset4.png)
-![dataset5 robot path](./robotpaths/dataset5.png)
+[dataset1 robot path](./robot_paths/dataset1.png)
+[dataset2 robot path](./robot_paths/dataset2.png)
+[dataset3 robot path](./robot_paths/dataset3.png)
+[dataset4 robot path](./robot_paths/dataset4.png)
+[dataset5 robot path](./robot_paths/dataset5.png)
   
 # Related publication
 R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.
