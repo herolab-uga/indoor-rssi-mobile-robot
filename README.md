@@ -31,11 +31,11 @@ All data in the datasets is obtained from the same environment: a 20-meter x 26-
   
 Below are figures displaying the paths the robot takes in the environment in datasets 1-5. The paths for datasets 6 and 7 are not shown as the robot does not move in the x-y plane but instead spins on its axis for a period of time.  
   
-![dataset1 robot path]()
-![dataset2 robot path]()
-![dataset3 robot path]()
-![dataset4 robot path]()
-![dataset5 robot path]()
+![dataset1 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset1.png?raw=true)
+![dataset2 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset2.png?raw=true)
+![dataset3 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset3.png?raw=true)
+![dataset4 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset4.png?raw=true)
+![dataset5 robot path](https://github.com/herolab-uga/indoor-rssi-mobile-robot/tree/master/robot_paths/dataset5.png?raw=true)
   
 # Related publication
 R. Parashar and R. Parasuraman, "Particle Filter Based Localization of Access Points Using Direction of Arrival on Mobile Robots". In Vehicular Technology Conference VTC-Fall 2020.
