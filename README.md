@@ -58,5 +58,5 @@ This dataset is used in the below paper. Please cite the below paper when you us
 
 For further information, contact Ravi Parashar ravi.parashar25@uga.edu or Prof. Ramviyas Parasuraman ramviyas@uga.edu
 
-**Heterogeneous Robotics Lab (HeRoLab), Department of Computer Science, University of Georgia. http://hero.uga.edu **
+**Heterogeneous Robotics Lab (HeRoLab), Department of Computer Science, University of Georgia.** http://hero.uga.edu 
 
