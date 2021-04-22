@@ -60,3 +60,7 @@ For further information, contact Ravi Parashar ravi.parashar25@uga.edu or Prof. 
 
 **Heterogeneous Robotics Lab (HeRoLab), Department of Computer Science, University of Georgia.** http://hero.uga.edu 
 
+<p align="center">
+<img src="http://hero.uga.edu/wp-content/uploads/2021/04/herolab_newlogo_whitebg.png" width="300">
+</p>
+
